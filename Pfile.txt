@@ -1,0 +1,15 @@
+Name , ID , Gender , Flight Class
+Ali /58 / male / Economy
+Bilal /8 / male / Economy
+Waqar /5 / male / Economy
+Asim /9 / male / Economy
+nabeel/6/male/bussiness
+Hassan / 258 / 70 / male/ pilot
+Hamid / 852 / 80 / male/ Guade
+Ahmed/52/536/male/Pilot
+Ali/54/male/Economy
+Talha/45/male/bussiness
+jin/21/female/bussiness
+Ali/21/male/bussiness
+Ali/545/male/bussiness
+hhh/222/female/bussiness

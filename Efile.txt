@@ -1,0 +1,9 @@
+Name, ID , Salarly , Gender , Disignation
+Zain / 963 / 50 / male/ pilot
+Waheed / 741 / 60 / male/ Guade
+Waqar / 258 / 70 / male/ pilot
+Shoaib / 852 / 80 / male/ Guade
+Ali/52/536/male/Pilot
+Waqar / 258 / 70 / male/ pilot
+Shoaib / 852 / 80 / male/ Guade
+Ali/52/536/male/Pilot
